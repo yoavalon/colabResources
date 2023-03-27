@@ -1,0 +1,5 @@
+def test(a) : 
+
+    while i < a : 
+        print(i)
+        i += 1
